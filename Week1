@@ -3,38 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Example</title>
+    <title>Hello World</title>
 </head>
 <body>
-    <!-- This is a comment explaining the structure of the document -->
-    
-    <h1>This is heading 1.</h1>
-    <h2>This is heading 2.</h2>
-    <p>This is a new paragraph.</p>
-
-    <hr>
-
-    <p>This sentence uses <strong>strong importance</strong>.</p>
-    <p>This sentence uses both <strong>strong importance</strong> and <em>emphasis</em>.</p>
-    <p><em>This sentence is written in italic style.</em></p>
-    <p><small>This sentence is written in small style.</small></p>
-    <p>This sentence contains <sub>subscript</sub> and <sup>superscript</sup> text.</p>
-    <p>This sentence contains <del>deleted text</del> and <ins>inserted text</ins>.</p>
-
-    <p>
-        The HTML <a href="#">&lt;a&gt; (anchor)</a> tag defines a hyperlink.<br>
-        A hyperlink (or link) is a word, group of words, or image that you can click on to jump to another document.<br>
-        When you move the cursor over a link in a Web page, the arrow will turn into a little hand.<br>
-        The most important attribute of the <a href="#">&lt;a&gt; element</a> is the <code>href</code> attribute, which indicates the link’s destination.
-    </p>
-
-    <p>By default, links will appear as follows in all browsers:</p>
-    <ul>
-        <li>An unvisited link is underlined and blue.</li>
-        <li>A visited link is underlined and purple.</li>
-        <li>An active link is underlined and red.</li>
-    </ul>
-
-    <p>Algoma University.</p>
+    <p>Hello World!!</p>
 </body>
 </html>
